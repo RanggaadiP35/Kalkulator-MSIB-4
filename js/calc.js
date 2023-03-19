@@ -5,8 +5,6 @@ function tambah() {
     var z = x + y
 
     myForm.hasil.value = z;
-
-    
 }
 
 function kurang() {
